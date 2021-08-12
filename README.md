@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently doing by graduation in Electronics and Communication from Government Engineering College Thrissur Kerala.
 - 🌱 Learning **Flutter** and **Machine Learning**.
-- 💬 Ask me about flutter and relared stuffs.
+- 💬 Ask me about flutter and related stuffs.
 - 📫 How to reach me: Email: **gopikrishnatc@gmail.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I never watch TV.
